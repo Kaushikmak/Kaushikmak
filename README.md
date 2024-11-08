@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hi there, I'm Kaushik 👋
 
 I'm currently pursuing my degree in Electrical and Electronics Engineering (EEE) at VNIT.
