@@ -6,7 +6,7 @@ I'm currently pursuing my degree in Electrical and Electronics Engineering (EEE)
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="20">](https://www.linkedin.com/in/kaushik-gupta-b2a9a6278/)
 
 #### About Me
-I'm a passionate learner and explorer in the field of electrical and electronics engineering. I'm constantly trying to expand my knowledge and skills in various technologies.
+I'm a passionate learner and explorer in the fields of electronics and computer science. I'm constantly trying to expand my knowledge and skills in various technologies.
 
 #### Featured Projects
 - [IvLab](https://github.com/Kaushikmak/IvLab)
