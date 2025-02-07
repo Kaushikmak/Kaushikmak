@@ -9,7 +9,7 @@ I'm currently pursuing my degree in Electrical and Electronics Engineering (EEE)
 I'm a passionate learner and explorer in the fields of electronics and computer science. I'm constantly trying to expand my knowledge and skills in various technologies.
 
 #### Featured Projects
-- [Studiebuddie](https://github.com/Kaushikmak/studiebuddie)
+- [Room-Chat](https://github.com/Kaushikmak/Room-chat)
 
 
 #### Skills
