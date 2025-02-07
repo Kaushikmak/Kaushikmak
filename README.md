@@ -9,8 +9,8 @@ I'm currently pursuing my degree in Electrical and Electronics Engineering (EEE)
 I'm a passionate learner and explorer in the fields of electronics and computer science. I'm constantly trying to expand my knowledge and skills in various technologies.
 
 #### Featured Projects
-- [IvLab](https://github.com/Kaushikmak/IvLab)
-- [Trical-App](https://github.com/Kaushikmak/Trical-App)
+- [Studiebuddie](https://github.com/Kaushikmak/studiebuddie)
+
 
 #### Skills
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
