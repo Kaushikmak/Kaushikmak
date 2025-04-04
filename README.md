@@ -10,6 +10,7 @@ I'm a passionate learner and explorer in the fields of electronics and computer 
 
 #### Featured Projects
 - [Room-Chat](https://github.com/Kaushikmak/Room-chat)
+- [CircuitVision](https://github.com/Kaushikmak/CircuitVision)
 
 
 #### Skills
