@@ -16,8 +16,8 @@ mmMMmm  ,6"Yb.  ,pP"Ybd mmMMmm `7M'   `MF'mmMMmm  ,6"Yb.  ,p6"bo   ,pW"Wq.
   MM    ,pm9MM  `YMMMa.   MM      VA ,V     MM    ,pm9MM 8M       8M     M8 
   MM   8M   MM  L.   I8   MM       VVV      MM   8M   MM YM.    , YA.   ,A9 
   `Mbmo`Moo9^Yo.M9mmmP'   `Mbmo    ,V       `Mbmo`Moo9^Yo.YMbmd'   `Ybmd9'  
-                                  ,V                                          
-                               OOb"                                                                                                                                                                                                                                           
+                                  ,V    
+                               OOb"    
 ```
 
 ## Profile Summary
