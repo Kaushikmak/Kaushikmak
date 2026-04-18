@@ -41,5 +41,5 @@ mmMMmm  ,6"Yb.  ,pP"Ybd mmMMmm `7M'   `MF'mmMMmm  ,6"Yb.  ,p6"bo   ,pW"Wq.
 * **Portfolio Documentation:** [kaushik-gupta.com](https://www.kaushik-gupta.com/)
 * **Technical Publications:** [NextBlog Author Page](https://nextblog-ov87.vercel.app/authors/k57a3ty7s3qe0gya2jmybzcz8d845w04)
 * **Version Control Environment:** [GitHub/Kaushikmak](https://github.com/Kaushikmak)
-* **Microblogging:** [X/KmaK69837720](https://x.com/KmaK69837720)
+* **Microblogging:** [X/tstytaco](https://x.com/tstytaco)
 
